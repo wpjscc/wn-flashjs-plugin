@@ -13,7 +13,9 @@
             "email": "wpjscc@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "wpjscc/wn-clipboard-plugin": "^1.0"
+    },
     "extra": {
         "installer-name": "flashjs"
     }
