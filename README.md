@@ -23,3 +23,9 @@ window.FlashMessage.info('InfoInfoInfoInfoInfoInfoInfoInfoInfo', {
 # ref
 
 * https://github.com/betaWeb/flashjs
+
+# todo
+
+* 支持使用iframe 
+    * 可以引入各种js,比如 tailwindcss, markdown-it 等
+ 
