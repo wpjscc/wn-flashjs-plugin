@@ -1,0 +1,11 @@
+fields:
+    name:
+        label: 名称
+        span: auto
+        type: text
+    config:
+        label: js配置
+        size: giant
+        language: javascript
+        span: full
+        type: codeeditor

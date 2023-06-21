@@ -1,0 +1,15 @@
+plugin:
+    name: 'wpjscc.flashjs::lang.plugin.name'
+    description: 'wpjscc.flashjs::lang.plugin.description'
+    author: wpjscc
+    icon: wn-icon-jsfiddle
+    replaces: {  }
+navigation:
+    flashjs:
+        label: FlashJs
+        url: wpjscc/flashjs/configs
+        icon: icon-jsfiddle
+permissions:
+    wpjscc.flashjs.lists:
+        tab: flashjs
+        label: 通知列表

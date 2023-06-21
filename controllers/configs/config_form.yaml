@@ -1,0 +1,10 @@
+name: Configs
+form: $/wpjscc/flashjs/models/config/fields.yaml
+modelClass: Wpjscc\Flashjs\Models\Config
+defaultRedirect: wpjscc/flashjs/configs
+create:
+    redirect: 'wpjscc/flashjs/configs/update/:id'
+    redirectClose: wpjscc/flashjs/configs
+update:
+    redirect: wpjscc/flashjs/configs
+    redirectClose: wpjscc/flashjs/configs
