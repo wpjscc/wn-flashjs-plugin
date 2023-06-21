@@ -19,3 +19,7 @@ window.FlashMessage.info('InfoInfoInfoInfoInfoInfoInfoInfoInfo', {
 ```
 <script src="xxxxx"></script>
 ```
+
+# ref
+
+* https://github.com/betaWeb/flashjs
