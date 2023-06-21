@@ -1,6 +1,7 @@
 {
     "name": "wpjscc/wn-flashjs-plugin",
     "license": "MIT",
+    "type": "winter-plugin",
     "autoload": {
         "psr-4": {
             "Wpjscc\\Flashjs\\": "src/"
