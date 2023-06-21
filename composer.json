@@ -1,0 +1,16 @@
+{
+    "name": "wpjscc/flashjs",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wpjscc\\Flashjs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wpjscc",
+            "email": "wpjscc@gmail.com"
+        }
+    ],
+    "require": {}
+}
