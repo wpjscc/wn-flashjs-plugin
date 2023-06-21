@@ -27,5 +27,5 @@ window.FlashMessage.info('InfoInfoInfoInfoInfoInfoInfoInfoInfo', {
 # todo
 
 * 支持使用iframe 
-    * 可以引入各种js,比如 tailwindcss, markdown-it 等
+    * 可以引入各种js,比如 tailwindcss, markdown-it 等，而不会对已有页面造成影响
  
