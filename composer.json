@@ -12,5 +12,8 @@
             "email": "wpjscc@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "installer-name": "flashjs"
+    }
 }
